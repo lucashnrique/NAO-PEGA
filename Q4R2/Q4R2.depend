@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1514140574 source:d:\lucas\documents\programação\lista 1 maritan\q4r2\main.cpp
+	<iostream>
+
+1536030512 source:d:\lucas\documents\programação\lista 1 maritan\q4r2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1536030484 d:\lucas\documents\programação\lista 1 maritan\q4r2\include\figurageometrica.h
+	<string>
+
+1536030674 source:d:\lucas\documents\programação\lista 1 maritan\q4r2\src\triangulo.cpp
+	"Triangulo.h"
+
+1536030674 d:\lucas\documents\programação\lista 1 maritan\q4r2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1536030779 source:d:\lucas\documents\programação\lista 1 maritan\q4r2\src\quadrado.cpp
+	"Quadrado.h"
+
+1536030779 d:\lucas\documents\programação\lista 1 maritan\q4r2\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1536030942 source:d:\lucas\documents\programação\lista 1 maritan\q4r2\src\circulo.cpp
+	"Circulo.h"
+
+1536030942 d:\lucas\documents\programação\lista 1 maritan\q4r2\include\circulo.h
+	"FiguraGeometrica.h"
+
+1536031176 source:d:\lucas\documents\programação\roteiro 2 derzu\q4r2\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Quadrado.h"
+	"Circulo.h"
+
+1536030674 d:\lucas\documents\programação\roteiro 2 derzu\q4r2\include\triangulo.h
+	"FiguraGeometrica.h"
+
+1539790766 d:\lucas\documents\programação\roteiro 2 derzu\q4r2\include\figurageometrica.h
+	<string>
+
+1536030779 d:\lucas\documents\programação\roteiro 2 derzu\q4r2\include\quadrado.h
+	"FiguraGeometrica.h"
+
+1536030942 d:\lucas\documents\programação\roteiro 2 derzu\q4r2\include\circulo.h
+	"FiguraGeometrica.h"
+
+1536030942 source:d:\lucas\documents\programação\roteiro 2 derzu\q4r2\src\circulo.cpp
+	"Circulo.h"
+
+1539790471 source:d:\lucas\documents\programação\roteiro 2 derzu\q4r2\src\figurageometrica.cpp
+	"FiguraGeometrica.h"
+
+1536030779 source:d:\lucas\documents\programação\roteiro 2 derzu\q4r2\src\quadrado.cpp
+	"Quadrado.h"
+
+1536030674 source:d:\lucas\documents\programação\roteiro 2 derzu\q4r2\src\triangulo.cpp
+	"Triangulo.h"
+
